@@ -1,6 +1,6 @@
 # school-portfolio
 
-<b><i>Welcome</b></i><br>
+<b><i>Welcome!</b></i><br>
 This school portfolio contains a coursera certificate, team KEMFET's project files (team logo, parts 1-3, and other related files) , and the "Uplift; U" user manual.
 
 <b>About Uplift;U</b><br>
